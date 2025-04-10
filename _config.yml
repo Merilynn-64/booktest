@@ -1,8 +1,8 @@
-title: The book Test
+title: Botshare
 description: A learning platform website
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
 plugins:
   - jekyll-default-layout
-url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
 
-  Template Repository: https://github.com/Merilynn-64/botsharebooktitle: My Book Test
+url: https://Merilynn-64.github.io/botsharebook
