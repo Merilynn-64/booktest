@@ -2,7 +2,7 @@ title: Botshare
 description: A learning platform website
 remote_theme: just-the-docs/just-the-docs
 
-plugins:
-  - jekyll-default-layout
+#plugins:
+ # - jekyll-default-layout
 
 url: https://Merilynn-64.github.io/botsharebook
