@@ -1,9 +1,8 @@
 title: My Book Test
 description: A sample book using Just the Docs
 remote_theme: just-the-docs/just-the-docs
-
 plugins:
-  - jekyll-remote-theme
+  - jekyll-default-layout
 
 # Optional: Customize navigation
 nav_sort: case_insensitive
