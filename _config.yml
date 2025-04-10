@@ -6,3 +6,6 @@ remote_theme: just-the-docs/just-the-docs
  # - jekyll-default-layout
 
 url: https://Merilynn-64.github.io/botsharebook
+search_enable : true
+color_scheme: light
+primary_color: dark
