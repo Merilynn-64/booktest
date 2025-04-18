@@ -1,9 +1,43 @@
 title: Botshare
-description: A learning platform website
+description: A documentation platform for botshare
 remote_theme: just-the-docs/just-the-docs
 
-#plugins:
- # - jekyll-default-layout
+repository: openAMRobot/Botshare_book
+aux_links:
+  "View on GitHub": https://github.com/openAMRobot
+aux_links_new_tab: true
+
+search_enabled: true
+search.tokenizer_separator: /[\s/]+/
+
+nav_sort: case-insensitive
+
+collections:
+  docs:
+    output: true
+    permalink: /:path/
+    sidebar:
+      nav: "docs"
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_exclude: false
+
+footer_content: "Copyright © 2025 Botshare AI. All rights reserved."
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y"
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 url: https://Merilynn-64.github.io/botsharebook
 search_enable : true
