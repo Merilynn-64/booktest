@@ -3,33 +3,103 @@ title: "Welcome"
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Open Robotics AI & Deep-Tech Initiative
+Overview
+Open Robotics AI & Deep-Tech Training is an open-source, hands-on initiative designed to equip learners with STEM, robotics, AI, and business development skills. Using a problem-based learning approach, it bridges theory with real-world applications, preparing participants to build, deploy, and commercialize robotics solutions. The program emphasizes both technical expertise and entrepreneurial skills, ensuring learners can innovate and scale automation technologies effectively.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+What you will learn
+The program covers:
 
-More specifically, the created site:
+STEM & Robotics Fundamentals – Physics, electronics, programming, and smart technologies.
+Deep-Tech Applications – Mechatronics, Embedded systems, ROS-based systems, ML and computer vision, HMI and UI.
+AI-Driven Automation – Autonomous mobile robots (AMRs), AI-powered logistics, and warehouse automation.
+Industry-ready Robotics Solutions – Applications in e-commerce, logistics, and industrial automation.
+Business & Entrepreneurship – Robotics commercialization and Robotics-as-a-Service (RaaS) models.
+Core pillars
+Training is structured around four interconnected areas:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Deep-Tech & Robotics – AI-robotics education, both theoretical and practical.
+Hands-On Development – Prototyping AMRs, cobots, and AI-powered automation systems.
+Prototyping & Manufacturing – Transitioning concepts into real-world production.
+Business & Entrepreneurship – Turning robotics innovations into scalable commercial ventures.
+Our solution
+This initiative comprised of two parts: Level_1: Incubation and Level_2 Acceleraion. First part is a set of PVC educational DIY kits and second part is based on two open-source real-world projects that merge AI-driven automation with practical robotics training:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+OpenAMR – Autonomous mobile robots (AMRs) for warehouse logistics and material handling.
+EasyMove – AI-powered, puzzle-based rack-moving systems for smart storage and sorting (in progress...).
+By integrating AMRs with intelligent storage solutions, we provide an affordable, scalable, and flexible warehouse automation framework while training professionals in deep-tech disciplines to drive innovation in robotics and AI.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Who benefits?
+This program is designed for a wide range of participants, including:
 
-To get started with creating a site, simply:
+Aspiring Robotics & AI engineers – Seamless learning path from school-level STEM to professional robotics and AI development.
+Engineers & Tech professionals – Gain expertise in robotics, AI, and industrial automation.
+Entrepreneurs & Business owners – Learn how to commercialize automation and robotics solutions.
+E-commerce Fulfillment Ccenters – Automate order picking and last-mile logistics.
+E-Grocery warehouses – Optimize fresh food storage and dispatch.
+CEP (Courier, Express, and Parcel) Sorting Hubs – Enhance parcel routing and last-mile delivery.
+SMEs & Startups – Implement AI-driven warehouse automation cost-effectively.
+Course structure
+LeveL 1: Smart Technology & Robotics incubation
+STEM Fundamentals - Mechanics, electricity, magnetism, optics - core principles for robotics.
+AI & IoT Integration - Smart environments, computer vision, and real-time automation.
+Digital Labs - Alternative energy, biomedical electronics, cybersecurity, hands-on learning.
+Robot factory - Unique classroom based open development hub for prototyping, small-scale production, and real-world applications. DIY kit: Boteon_education
+Level 2:Robotics and AI acceleration
+Master AI & Robotics Fundamentals – Path planning, embedded systems, computer vision, deep learning.
+Build & Test Real-World Automation Projects – Warehouse robotics, autonomous navigation.
+Develop Business & Entrepreneurship Skills – Commercializing robotics solutions, RaaS models.
+Work on Industry-Specific Applications – E-commerce fulfillment, last-mile delivery, AI logistics. DIY kit: Boteon_education
+Professional Open-Source Learning Environment
+This program immerses students in the same development environment used by AI and robotics professionals.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+GitHub-Centric Learning – All coursework, assignments, and projects are hosted on GitHub.
+Jupyter Notebooks for AI & Robotics – Interactive coding exercises, real-time simulations, auto-graded assignments.
+Integrated DevOps & CI/CD – Automated grading, issue tracking, and pull request-based submissions.
+DIY Robotics Kits (Optional) – Hardware kits for real robotics systems.
+Project-Based Learning – Industry-aligned projects simulating real-world AI-driven robotics applications.
+AI-Powered Adaptive Learning
+Automated Skill Assessments & Personalized Learning Paths – AI-driven progress tracking and tailored recommendations.
+AI Mentor Chatbot – 24/7 AI assistance for coding support and debugging via GitHub Issues and Jupyter Notebooks.
+AI-Driven Robotics Simulations – Digital twins and robotics simulators (Gazebo, Webots, Isaac Sim) for pre-hardware testing.
+Automated Code Evaluation & GitHub Tracking – Auto-graded assignments via GitHub Actions.
+On-Demand Expert Mentorship (Premium Option) – Live expert sessions for deeper insights.
+Industry-Aligned Learning Model
+Students train in industry-standard environments, gaining hands-on experience while keeping the program scalable and cost-effective. By working with real repositories, CI/CD automation, AI simulations, and industry tools, participants develop a strong portfolio of projects that align with professional standards.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Target Audience & Career Paths
+Who should join?
+Students & Engineers – Gain deep-tech knowledge.
+Entrepreneurs & SME Owners – Develop AI-powered automation startups.
+Corporate Teams & Professionals – Upskill for Industry 4.0.
+Career paths after completion
+AI Robotics Engineer
+Automation & Digital Transformation Consultant
+RaaS Startup Founder
+Industrial AI & Data Science Specialist
+Mechatronics & Embedded Systems Developer
+Certification & Career support
+Industry-Recognized Certification in AI, Robotics & Business.
+Job Placement Assistance
+Course outcomes
+By completing this course, learners will:
+✅ Master AI & Robotics Development (Deep Tech).
+✅ Develop Real-World AI-Powered Robotics Applications.
+✅ Gain Hands-On Industry Experience through Prototyping.
 
-----
+Get Started Now
+This initiative is built for those who want to learn, apply, and innovate in AI-driven robotics and automation. Join us to build the future of AI-powered robotics solutions!
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+📖 Start learning now
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Support Our Project
+Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
+
+GitHub Sponsors
+Sponsor openAMRobot
+
+PayPal
+Donate via PayPal
+
+Every contribution, big or small, helps us grow. Thank you for your support!
+
