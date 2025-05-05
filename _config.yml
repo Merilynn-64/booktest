@@ -43,3 +43,8 @@ url: https://Merilynn-64.github.io/botsharebook
 search_enable : true
 color_scheme: light
 primary_color: dark
+nav:
+  - home: index.md
+  - course: 
+    - overview: overview.md
+    - training program: training_program.md
